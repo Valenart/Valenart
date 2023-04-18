@@ -10,12 +10,13 @@
   
 - 🎇 Hobbies: Em horas vagas gosto de desenhar, tocar violão, aprender coisas novas e línguas como Frances, Ingles e Espanhol. 
 
-<div align="center">
+ <div align="left">
   <a href="https://github.com/valenart">
-  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=valenart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenart&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=valenart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenart&layout=compact&langs_count=7&theme=tokyonight"/>
+ </div>
+     
+ <div style="display: inline_block"><br>
   <img align="center" alt="Richard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
