@@ -6,7 +6,7 @@
 - ⭐ I’m currently learning: Nowadays, I'm learning HTML, CSS Python, Java and JavaScript!
 - ⭐ Atualmente aprendo: Nos dias atuais, aprendo HTML, CSS, Python, Java e JavaScript!
      
-- 🦅 Pronouns/Pronomes: He/His Ele/Dele
+- 🦅 Pronouns/Pronomes: He/His Ele/Dele.
   
 - 🎇 Hobbies: Em horas vagas gosto de desenhar, tocar violão, aprender coisas novas e línguas como Francês, Ingles e Espanhol. 
 
