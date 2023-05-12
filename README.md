@@ -8,7 +8,7 @@
      
 - 🦅 Pronouns/Pronomes: He/His Ele/Dele.
   
-- 🎇 Hobbies: Em horas vagas gosto de desenhar, tocar violão, aprender coisas novas e línguas como Francês, Ingles e Espanhol. 
+- 🎇 Hobbies: Em horas vagas gosto de desenhar, tocar violão e aprender idiomas como Francês, Ingles e Espanhol. 
 
  <div align="left">
   <a href="https://github.com/valenart">
