@@ -1,4 +1,4 @@
-### Olá a todos, sou o Richard Valentim!
+### Olá a todos, sou o Richard Valentim da Silva!
 
 - 🥦 Introduction: I'm Richard Valentim,19 years old, at the moment, i'm creating something basic codes in Python,Java, HTML and CSS. 🥦    
 - 🥦 Indutroducão: Sou Richard Valentim, tenho 19 anos, no momento faco alguns códigos básicos em Python,Java, HTML e CSS. Faco faculdade no curso de ADS 2/5             (Análise e Desenvolvimento de Sistemas) na UAM! 🥦
