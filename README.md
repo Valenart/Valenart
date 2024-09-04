@@ -1,10 +1,10 @@
 ### Olá a todos, sou o Richard Valentim da Silva!
 
-- 🥦 Introduction: I'm Richard Valentim,19 years old, at the moment, i'm creating something basic codes in Python,Java, HTML and CSS. 🥦    
-- 🥦 Indutroducão: Sou Richard Valentim, tenho 19 anos, no momento faco alguns códigos básicos em Python,Java, HTML e CSS. Faco faculdade no curso de ADS 2/5             (Análise e Desenvolvimento de Sistemas) na UAM! 🥦
+- 🥦 Introduction: I'm Richard Valentim,21 years old, at the moment, i'm creating something projects. 🥦    
+- 🥦 Indutroducão: Sou Richard Valentim, tenho 21 anos, no momento faco alguns projetos tanto pessoais quanto profissionais. Faco curso de ADS 5/5 (Análise e Desenvolvimento de Sistemas) na UAM! 🥦
 
-- ⭐ I’m currently learning: Nowadays, I'm learning HTML, CSS Python, Java and JavaScript! I'm searching my first job in the business.
-- ⭐ Atualmente aprendo: Nos dias atuais, aprendo HTML, CSS, Python, Java e JavaScript! Procuro meu primeiro trabalho no ramo.
+- ⭐ I’m currently learning: Nowadays, I'm learningJavaScript, React, Kotlin e PHP!
+- ⭐ Atualmente aprendo: Nos dias atuais, JavaScript, React, Kotlin e PHP!
      
 - 🦅 Pronouns/Pronomes: He/His Ele/Dele.
   
