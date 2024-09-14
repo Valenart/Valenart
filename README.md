@@ -1,55 +1,87 @@
-### Olá a todos, sou o Richard Valentim da Silva!
+<section>
+<img align="center" alt="Badge-Main-README" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/GitHub%20Badge%20Main.png">
 
-- 🥦 Introduction: I'm Richard Valentim,21 years old, at the moment, i'm creating something projects. 🥦    
-- 🥦 Indutroducão: Sou Richard Valentim, tenho 21 anos, no momento faco alguns projetos tanto pessoais quanto profissionais. Faco curso de ADS 5/5 (Análise e Desenvolvimento de Sistemas) na UAM! 🥦
-
-- ⭐ I’m currently learning: Nowadays, I'm learningJavaScript, React, Kotlin e PHP!
-- ⭐ Atualmente aprendo: Nos dias atuais, JavaScript, React, Kotlin e PHP!
-     
-- 🦅 Pronouns/Pronomes: He/His Ele/Dele.
-  
-- 🎇 Hobbies: Em horas vagas gosto de desenhar, tocar violão e aprender idiomas como Francês, Ingles e Espanhol. 
 <div>
-     <h3>Meu perfil:</h3>
+     <h1 align="center">Meu nome é Richard Valentim</h1>
+     <h2 align="center">Full-Stack Developer Intern</h2>
 </div>
 
-<div align="left">
-  <a href="https://github.com/valenart">
+<br>
+
+<h4 align="center">🌎EN - I'm 21 years old, and at the moment, i'm creating something professional and pessoal projects. He/His</h4>
+<h4 align="center">🟢PT - Eu tenho 21 anos, e no momento faco alguns projetos tanto pessoais quanto profissionais. Ele/Dele</h4>
+<br>
+<h4 align="center">🌎EN - I’m currently learning: Nowadays, I'm learning JavaScript, React, Kotlin e PHP!</h4>
+<h4 align="center">🟢PT - Atualmente aprendo: Nos dias atuais, JavaScript, React, Kotlin e PHP!</h4>
+
+<br>
+ 
+<div  align="center">
+     <h2>SKILLS</h2>
+     <h3>Alguma das linguagens que aprendi e hoje trabalho:</h3>
+</div>
+
+<br>
+
+<div style="display: inline_block" align="center">
+       <img align="center" alt="Richard-HTML" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/HTML.png">
+     &nbsp;
+       <img align="center" alt="Richard-CSS" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/CSS.png">
+     &nbsp;
+       <img align="center" alt="Richard-Js" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/JAVASCRIPT.png">
+     &nbsp;
+       <img align="center" alt="Richard-JAVA" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/JAVA.png">
+     &nbsp;
+       <img align="center" alt="Richard-Python" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/PYTHON.png">
+     &nbsp;
+       <img align="center" alt="Richard-MYSQL" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/MYSQL.png">
+     &nbsp;
+       <img align="center" alt="Richard-React" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/REACT.png">
+     &nbsp;
+</div>
+
+<br>
+
+<div style="display: inline_block" align="center">      
+     <img align="center" alt="Richard-PostGre" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/POSTGRE.png">
+     &nbsp;
+       <img align="center" alt="Richard-Kotlin" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/KOTLIN.png" />
+     &nbsp;
+       <img align="center" alt="Richard-Linux" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/LINUX.png" />
+     &nbsp;
+</div>
+
+<br>
+
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valenart&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  &nbsp; &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenart&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br>   
-<div style="display: inline_block">
-       <img align="center" alt="Richard-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-       <img align="center" alt="Richard-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-       <img align="center" alt="Richard-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-       <img align="center" alt="Richard-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-       <img align="center" alt="Richard-Java" height="30" width="40" top=10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-       <img align="center" alt="Richard-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-       <img align="center" alt="Richard-BootstrapReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
-       <img align="center" alt="Richard-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-       <img align="center" alt="Richard-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-<br> 
-<div style="display: inline_block>
-      <img align="center" alt="Richard-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-      <img align="center" alt="Richard-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-      <img align="center" alt="Richard-Ilustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-      <img align="center" alt="Richard-After Effects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
-</div>    
+
 <br>
-<div>
-        <a href = "https://github.com/Valenart/JAVA" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
-        <a href = "https://github.com/Valenart/Codigos-Python" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>  
-        <a href = "https://github.com/Valenart/Sites" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-        <a href = "https://github.com/Valenart/Sites" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-        <a href = "https://github.com/Valenart" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+
+<div  align="center">
+     <h2>SOCIAL MEDIA</h2>
+     <h3>Minhas redes sociais e formas de contato:</h3>
 </div>
+
 <br>
-<div>  
+
+<div style="display: inline_block" align="center">  
        <a href="https://instagram.com/r_valentims" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     &nbsp;
        <a href = "mailto:richardvalentim.corp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     &nbsp;
        <a href = "https://twitter.com/ValentimR3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+     &nbsp;
        <a href = "https://www.linkedin.com/in/richard-valentim-da-silva-a9010923b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>    
+</div>   
+
+<br>
+
+<div align="center">
+     <h5>"UNE VIE C'EST PAS ASSEZ"<h5>
+     <img  alt="My-Logo-README" height="80" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/My%20Logo%20White.png" align="center">
+</div>
+</section>
