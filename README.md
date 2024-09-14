@@ -36,8 +36,6 @@
      &nbsp;
        <img align="center" alt="Richard-MYSQL" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/MYSQL.png">
      &nbsp;
-       <img align="center" alt="Richard-React" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/REACT.png">
-     &nbsp;
 </div>
 
 <br>
@@ -48,6 +46,8 @@
        <img align="center" alt="Richard-Kotlin" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/KOTLIN.png" />
      &nbsp;
        <img align="center" alt="Richard-Linux" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/LINUX.png" />
+     &nbsp;
+     <img align="center" alt="Richard-React" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/REACT.png">
      &nbsp;
 </div>
 
