@@ -65,6 +65,10 @@
        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valenart&theme=vue-dark&show_icons=true&hide_border=false&count_private=false"/>
 </div>
 
+<div align="center">
+     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=valenart&theme=vue-dark&hide_border=false"/>
+</div>
+
 <br>
 
 <div  align="center">
