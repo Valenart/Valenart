@@ -16,57 +16,50 @@
 <br>  
 
 <div align="center">     
-     <h4>🌎EN - I’m currently learning: Nowadays, I'm learning JavaScript, React, Kotlin e PHP!</h4>
-     <h4>🟢PT - Atualmente aprendo: Nos dias atuais, JavaScript, React, Kotlin e PHP!</h4>
+     <h4>🌎EN - I’m currently learning: Nowadays, I'm learning SASS e C#!</h4>
+     <h4>🟢PT - Atualmente aprendo: Nos dias atuais, SASS e C#!</h4>
 </div>
 
 <br>
  
 <div  align="center">
      <h2>SKILLS</h2>
-     <h3>Alguma das linguagens que aprendi e hoje trabalho:</h3>
+     <h3>Alguma das linguagens que hoje trabalho:</h3>
 </div>
 
 <br>
 
 <div style="display: inline_block" align="center">
-       <img alt="Richard-HTML" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/HTML.png">
-     &nbsp;
-       <img alt="Richard-CSS" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/CSS.png">
-     &nbsp;
-       <img alt="Richard-Js" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/JAVASCRIPT.png">
-     &nbsp;
-       <img alt="Richard-JAVA" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/JAVA.png">
-     &nbsp;
-       <img alt="Richard-Python" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/PYTHON.png">
-     &nbsp;
-       <img alt="Richard-MYSQL" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/MYSQL.png">
-     &nbsp;
+    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+    <img align="center" alt="Sprig" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <br>
 
 <div style="display: inline_block" align="center">      
-       <img alt="Richard-PostGre" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/POSTGRE.png">
-     &nbsp;
-       <img alt="Richard-Kotlin" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/KOTLIN.png" />
-     &nbsp;
-       <img alt="Richard-Linux" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/LINUX.png" />
-     &nbsp;
-       <img alt="Richard-React" height="40" src="https://raw.githubusercontent.com/Valenart/Contents-README/main/Badges%20Github/REACT.png">
-     &nbsp;
+       <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+         <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br>
 
 <div align="center">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenart&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenart&theme=vue-dark&layout=donut&hide_border=false&count_private=false"/>
        &nbsp; &nbsp;
        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valenart&theme=vue-dark&show_icons=true&hide_border=false&count_private=false"/>
-</div>
+       
 
-<div align="center">
-     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=valenart&theme=vue-dark&hide_border=false"/>
 </div>
 
 <br>
