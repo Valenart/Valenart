@@ -3,7 +3,7 @@
 
 <div align="center">
      <h1>Meu nome é Richard Valentim</h1>
-     <h2>Full-Stack Developer Intern</h2>
+     <h2>FrontEnd Developer</h2>
 </div>
 
 <br>
