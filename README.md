@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-     <h4>🌎EN - I'm 21 years old, and at the moment, i'm creating something professional and pessoal projects. He/His</h4>
-     <h4>🟢PT - Eu tenho 21 anos, e no momento faco alguns projetos tanto pessoais quanto profissionais. Ele/Dele</h4> 
+     <h4>🌎EN - I'm 22 years old, and at the moment, i'm creating something professional and pessoal projects. He/His</h4>
+     <h4>🟢PT - Eu tenho 22 anos, e no momento faco alguns projetos tanto pessoais quanto profissionais. Ele/Dele</h4> 
 </div>
      
 <br>  
