@@ -20,8 +20,8 @@
 
   <!-- Idiomas -->
   <div align="center">
-    <h4>🌎 EN - I'm 22 years old, Front-End Developper and I'm at moment building functional and creative web applications.</h4>
-    <h4>🟢 PT - Tenho 22 anos, Sou desenvolvedor Front-End e estou no moment aplicações web funcionais e criativas.</h4>
+    <h4>🌎 EN - I'm 22 years old, Front-End Developper and I'm studying at moment Typescript and Angular.</h4>
+    <h4>🟢 PT - Tenho 22 anos, Sou desenvolvedor Front-End e estou no momento estudando Typescript e Angular.</h4>
   </div>
 
   <br>
