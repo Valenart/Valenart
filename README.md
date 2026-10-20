@@ -20,15 +20,15 @@
 
   <!-- Idiomas -->
   <div align="center">
-    <h4>🌎 EN - I'm 22 years old, Front-End Developper and I'm studying at moment Typescript and Angular.</h4>
-    <h4>🟢 PT - Tenho 22 anos, Sou desenvolvedor Front-End e estou no momento estudando Typescript e Angular.</h4>
+    <h4>🌎 EN - I'm 23 years old, Front-End Developper and I'm studying at moment Typescript and Angular.</h4>
+    <h4>🟢 PT - Tenho 23 anos, Sou desenvolvedor Front-End e estou no momento estudando Typescript e Angular.</h4>
   </div>
 
   <br>
 
   <!-- Aprendizado Atual -->
   <div align="center">
-    <h4>📚 Atualmente estudando: SASS, PHP e aprofundando meus conhecimentos em React, Banco de dados e UX/UI.</h4>
+    <h4>📚 Atualmente estudando: SASS, Next.js, Angular e aprofundando meus conhecimentos em Banco de dados</h4>
   </div>
 
   <br>
@@ -43,33 +43,21 @@
 
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
     <!-- Linguagens e Frameworks -->
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img alt="Yii" src="https://img.shields.io/badge/Yii-008000?style=for-the-badge&logo=yii&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <!-- Backend / Infra -->
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-    <img alt="Firebird" src="https://img.shields.io/badge/Firebird-FF3300?style=for-the-badge&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-    <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white"/>
-    <img alt="HeidiSQL" src="https://img.shields.io/badge/HeidiSQL-458B00?style=for-the-badge&logoColor=white"/>
     <!-- Design Tools -->
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img alt="Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-    <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
     <img alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
   </div>
 
@@ -98,9 +86,6 @@
     </a>
     <a href="mailto:richardvalentim.corp@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://twitter.com/ValentimR3" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/richardvalentim" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
