@@ -10,9 +10,7 @@
       Tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atualmente,
       desenvolvo aplicações web usando React, PHP, Next.js e banco de dados como MySQL e PostgreSQL.
       Também possuo experiência com monitoramento (Grafana, Zabbix), integração de APIs
-      e versionamento com Git. Paralelamente, estudo Design Digital, o que me permite
-      criar interfaces mais atrativas e funcionais usando ferramentas como Illustrator, Photoshop,
-      Premiere e Figma.
+      e versionamento com Git.
     </p>
   </div>
 
